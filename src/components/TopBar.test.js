@@ -1,4 +1,5 @@
-import { TopBar } from "./TopBar";
+import React from 'react';
+import TopBar from "./TopBar";
 import { shallow } from "enzyme";
 
 test("topbar component", () => {
