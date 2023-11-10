@@ -1,7 +1,8 @@
 import React from "react";
+import TicTacToeComponent from "./features/ticTacToe/TicTacToe";
 
 export default function App() {
   return (
-      <div>React container</div>
+      <div><TicTacToeComponent /></div>
   );
 }
